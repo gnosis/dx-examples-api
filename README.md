@@ -1,8 +1,8 @@
 # API Usage - Dutch X
-This is just a simple project that shows how to use the Dutch X API.
+This is a simple project that shows how to use the Dutch X API.
 
 ## Getting started
-To get started, you just have to make a regulat REST call using any http client.
+To get started, you just have to make a regular REST call using any http client.
 
 For example, in node you could use [got](https://www.npmjs.com/package/got) to 
 make the http requests:
