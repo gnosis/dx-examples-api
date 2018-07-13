@@ -8,7 +8,7 @@ async function getInfoFromDx() {
   })
   
   // Print all the markets
-  console.log(`Found ${markets.length} markets in Dutch X:`)
+  console.log(`Found ${markets.length} markets in DutchX:`)
   markets.forEach((market, index) => {    
     console.log(`[${index + 1}] ${market.tokenA.symbol}-${market.tokenB.symbol}:`)
     printTokenInfo(market.tokenA)
