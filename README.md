@@ -7,8 +7,8 @@
 This is a simple project that shows how to use the DutchX API.
 
 The API is avaliable for:
-  * **Rinkeby**: [https://dutchx.d.exchange/api](https://dutchx.d.exchange/api)
-  * **Mainnet**: [https://dutchx-rinkeby.d.exchange/api](https://dutchx-rinkeby.d.exchange/api)
+  * **Mainnet**: [https://dutchx.d.exchange/api](https://dutchx.d.exchange/api)
+  * **Rinkeby**: [https://dutchx-rinkeby.d.exchange/api](https://dutchx-rinkeby.d.exchange/api)
 
 # Documentation
 Checkout the [DutchX Documentation](http://dutchx.readthedocs.io/en/latest).
@@ -65,3 +65,14 @@ project and documentation on how to run your own bots to ensure market
 liquidity.
 * [Github: dx-react](https://github.com/gnosis/dx-react): Front end web 
 application for the DutchX seller interface
+
+
+# Contributors
+- Stefan ([Georgi87](https://github.com/Georgi87))
+- Martin ([koeppelmann](https://github.com/koeppelmann))
+- Anxo ([anxolin](https://github.com/anxolin))
+- Dani ([dasanra](https://github.com/dasanra))
+- Dominik ([dteiml](https://github.com/dteiml))
+- David ([W3stside](https://github.com/w3stside))
+- Dmitry ([Velenir](https://github.com/Velenir))
+- Alexander ([josojo](https://github.com/josojo))
