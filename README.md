@@ -1,5 +1,17 @@
+<p align="center">
+  <img width="350px" src="http://dutchx.readthedocs.io/en/latest/_static/DutchX-logo_blue.svg" />
+</p>
+
+
 # API Usage - DutchX
 This is a simple project that shows how to use the DutchX API.
+
+The API is avaliable for:
+  * **Rinkeby**: [https://dutchx.d.exchange/api](https://dutchx.d.exchange/api)
+  * **Mainnet**: [https://dutchx-rinkeby.d.exchange/api](https://dutchx-rinkeby.d.exchange/api)
+
+# Documentation
+Checkout the [DutchX Documentation](http://dutchx.readthedocs.io/en/latest).
 
 ## Getting started
 To get started, you just have to make a regular REST call using any http client.
@@ -18,7 +30,7 @@ added to the DutchX we can use the `/markets` endpoint:
 
 ```js
 got = require('got');
-const { body: markets } = await got('https://dx-services.dev.gnosisdev.com/api/v1/markets', {
+const { body: markets } = await got('https://dutchx.d.exchange/api/v1/markets', {
   json: true
 })
 ```

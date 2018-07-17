@@ -1,5 +1,5 @@
 const got = require('got');
-const BASE_URL = 'https://dx-services.dev.gnosisdev.com/api/v1'
+const BASE_URL = 'https://dutchx.d.exchange/api/v1'
 
 async function getInfoFromDx() {
   // Get all the token pairs (markets)
