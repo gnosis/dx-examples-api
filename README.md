@@ -6,12 +6,18 @@
 # API Usage - DutchX
 This is a simple project that shows how to use the DutchX API.
 
-The API is avaliable for:
-  * **Mainnet**: [https://dutchx.d.exchange/api](https://dutchx.d.exchange/api)
-  * **Rinkeby**: [https://dutchx-rinkeby.d.exchange/api](https://dutchx-rinkeby.d.exchange/api)
+The API is an alternative and easier access to the information on
+the smart contracts.
+
+It was built to make the information more accessible, so it hides the barriers 
+that a newcomer may find in the Ethereum development.
 
 # Documentation
-Checkout the [DutchX Documentation](http://dutchx.readthedocs.io/en/latest).
+The API and it's documentation is avaliable for:
+  * **Mainnet**: [https://dutchx.d.exchange/api](https://dutchx.d.exchange/api)
+  * **Rinkeby**: [https://dutchx-rinkeby.d.exchange/api](https://dutchx-rinkeby.d.exchange/api)
+  
+Check out also the [DutchX Documentation](http://dutchx.readthedocs.io/en/latest)
 
 ## Getting started
 To get started, you just have to make a regular REST call using any http client.
@@ -45,26 +51,6 @@ yarn start # Or: npm start
 We should see as a result the list of tokens:
 
 ![alt text](./docs/img/get-token-list.png "Get the list of token pairs from the API")
-
-# Documentation
-For API documentation, please go to:
-https://dx-services.dev.gnosisdev.com/
-
-# Aditional information
-For aditional information and for reference, check out the following 
-repositories:
-
-* [Gnosis Blog](https://blog.gnosis.pm/tagged/dutchx): Learn about DutchX in 
-Gnosis Blog, were you will find a series of posts about it.
-* [Github: dx-contracts](https://github.com/gnosis/dx-contracts): Smart 
-contracts of the Duch X
-* [Github: dx-services](https://github.com/gnosis/dx-services): Services, 
-repositories and bots to interact with DX.
-* [Github: dx-examples-liquidity-bots](https://github.com/gnosis/): Example 
-project and documentation on how to run your own bots to ensure market 
-liquidity.
-* [Github: dx-react](https://github.com/gnosis/dx-react): Front end web 
-application for the DutchX seller interface
 
 
 # Contributors
