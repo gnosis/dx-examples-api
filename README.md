@@ -6,7 +6,7 @@
 # API Usage - DutchX
 This is a simple project that shows how to use the DutchX API.
 
-The API is an alternative and easier access to the information on
+The API is an alternative and easier way to access to the information on
 the smart contracts.
 
 It was built to make the information more accessible, so it hides the barriers 
